@@ -3,3 +3,4 @@
 
 ## 해야할 일
 - Git commit하기
+- Git Push하기
